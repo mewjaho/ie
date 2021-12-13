@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@200;300&family=K2D:ital,wght@1,100&family=Niramit:wght@200&family=Prompt:wght@100&family=Sarabun:wght@200&family=Thasadith:wght@700&display=swap");
+* {
+  font-family: "Niramit", sans-serif;
+}
+
+ิิhtml,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.button2 {
+  color: white;
+  background-color: rgb(223, 87, 87);
+  margin-top: 90px;
+  margin-left: 10px;
+  width: 70px;
+  height: 30px;
+}
+.navbar {
+  background-color: rgb(214, 130, 115);
+  font-weight: bold;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: 3;
+}
+
+.aa {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  padding-top: 50px;
+  margin-left: 150px;
+  width: 45%;
+}
+
+.search {
+  margin-left: 70px;
+  margin-top: 80px;
+  width: 190px;
+  height: 40px;
+  text-align: center;
+  border-radius: 20px;
+}
+.search {
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  margin-left: 20px;
+}
+#card2 p:hover {
+  color: brown;
+  margin-left: 20px;
+}
+#n {
+  color: aliceblue;
+}
+#new {
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(213, 81, 81);
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+}
+#login {
+  margin-left: 760px;
+}
+#q {
+  font-size: 25px;
+  font-weight: bolder;
+  color: rgb(72, 88, 206);
+}
+
+.button {
+  background-color: rgb(163, 228, 230);
+}
+#e {
+  font-size: 25px;
+  font-weight: bolder;
+  color: rgb(247, 120, 205);
+}
+
+#card1 {
+  margin-left: 50px;
+}
+#card2 {
+  margin-left: 20px;
+}
+#card3 {
+  margin-left: 50px;
+}
+#card3 p:hover {
+  color: rgb(72, 88, 206);
+}
+
+#card5 {
+  margin-left: 40px;
+}
+#card6 {
+  margin-left: 50px;
+}
+
+#contact p.title {
+  text-align: center;
+  font-size: 15px;
+  font-weight: bolder;
+  color: blue;
+}
+
+#contact {
+  margin-top: 30px;
+  margin-left: 400px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+}
+.box {
+  background-color: white;
+  padding: 50px;
+  border: 1px black;
+}
+.pagination {
+  padding-top: 30px;
+}
+.img2 {
+  margin-left: 50px;
+  width: 70px;
+}
+#new2 {
+  margin-left: 20px;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(213, 81, 81);
+}
+.icon2 {
+  text-align: center;
+}
+.final {
+  background-color: rgb(214, 130, 115);
+}
